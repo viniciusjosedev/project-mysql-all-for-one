@@ -33,7 +33,13 @@
   gh repo clone viniciusjosedev/project-mysql-all-for-one
 ```
 
-### Pronto!
+### Com o docker e docker-compose instalado, rode o seguinte comando na raiz do projeto.
+
+```bash
+  docker-compose up -d && docker exec -it all_for_one bash
+```
+
+### Pronto! Agora você já está dentro do terminal no container!
 
 ## Descrição do projeto
 
