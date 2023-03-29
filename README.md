@@ -42,4 +42,4 @@
 ## Pessoas Desenvolvedoras do Projeto.
 ### Projeto realizado em conjunto com a empresa de tecnologia Trybe, que foi a responsável pela criação dos testes com jest, fazendo-se assim, toda a estrutura necessária para um bom desenvolvimento orientado a testes (TDD).
 ### Toda a estrutura de arquivos foram de responsabilidade da trybe, com excessão: desafio1.sql a desafio27.sql.
-#### OBS: Os testes do jest foram apagados com a finalidade de preservar a autoria de código com base nas regras internas da Trybe.
+##### OBS: Os testes do jest foram apagados com a finalidade de preservar a autoria de código com base nas regras internas da Trybe.
