@@ -33,7 +33,7 @@
   gh repo clone viniciusjosedev/project-mysql-all-for-one
 ```
 
-### Com o docker e docker-compose instalado, rode o seguinte comando na raiz do projeto.
+### Com o docker e docker-compose instalado, rode o seguinte comando na raiz do projeto:
 
 ```bash
   docker-compose up -d && docker exec -it all_for_one bash
